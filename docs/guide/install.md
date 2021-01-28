@@ -6,4 +6,4 @@
 `$ npm install -g crx-cli`
 ```
 
-`$ crx-cli -v` 或 `$ crx-cli --version` 查看版本检验是否安装成功。
+`$ crx-cli -v` 或 `$ crx-cli --version` 查看版本检验是否安装成功

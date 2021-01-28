@@ -1,7 +1,7 @@
 module.exports = {
 	base: '/crxcli_vuepress/',
 	title: 'crx-cli',
-	description: '一个用于vue项目搭建的脚手架工具',
+	description: '一个用于拉取模板项目的脚手架工具',
 	head: [
 		['link', { rel: 'icon', href: 'favicon.ico' }]
 	],

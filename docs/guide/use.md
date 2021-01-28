@@ -3,6 +3,6 @@
 
 ### 命令
 ```
-`$ crx-cli init|i [projectName]`
+`$ crx-cli init|i [type] [projectName]`
 ```
-使用指令`init`或`i`执行项目初始化命令，项目名称`projectName`为必选参数。
+使用指令`init`或`i`执行项目初始化命令，`type`类型为`vue`或`react`，项目名称`projectName`为必选参数
