@@ -1,8 +1,6 @@
-##  crx-cli
+##  dc-cli
 
-> crx-cli是一个已发布于npm，用于拉取模板项目的脚手架工具
-
-2.0版本暂时无法上传npm，可拉取[源码](https://github.com/Jiuto/crx-cli.git)通过`npm link`在本地使用
+> dc-cli是一个用于拉取模板项目的脚手架工具
 
 ###  功能
 * 提供react或vue模板项目，自由选择

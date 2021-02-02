@@ -1,6 +1,6 @@
 module.exports = {
-	base: '/crxcli_vuepress/',
-	title: 'crx-cli',
+	base: '/dc-cli_vuepress/',
+	title: 'dc-cli',
 	description: '一个用于拉取模板项目的脚手架工具',
 	head: [
 		['link', { rel: 'icon', href: 'favicon.ico' }]
@@ -11,7 +11,7 @@ module.exports = {
     nav: [
       { text: '指南', link: '/' },
       { text: 'Changelog', link: '../guide/CHANGELOG.md' },
-      { text: 'NPM', link: 'https://www.npmjs.com/package/crx-cli' },
+      { text: 'NPM', link: 'https://www.npmjs.com/package/dc-cli' },
 		],
 		sidebar: [
 			{

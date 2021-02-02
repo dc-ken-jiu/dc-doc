@@ -1,9 +1,9 @@
 {
-  "name": "crx-cli-vuepress",
-  "title": "crx-cli-vuepress",
+  "name": "dc-cli-vuepress",
+  "title": "dc-cli-vuepress",
   "version": "1.0.0",
-  "description": "crx-cli-vuepress",
-  "author": "",
+  "description": "dc-cli-vuepress",
+  "author": "Jiuto",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
