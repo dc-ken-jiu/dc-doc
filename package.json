@@ -1,12 +1,13 @@
 {
-  "name": "dc-doc",
+  "name": "@dc/doc",
   "title": "dc-doc",
   "version": "2.0.0",
   "description": "dc组织生态文档",
   "author": "Jiuto,dxj",
   "scripts": {
     "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy":"sh deploy.sh"
   },
   "license": "MIT",
   "devDependencies": {
