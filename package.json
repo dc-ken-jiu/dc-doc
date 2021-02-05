@@ -3,7 +3,7 @@
   "title": "dc-doc",
   "version": "2.0.0",
   "description": "dc组织生态文档",
-  "author": "Jiuto,dxj",
+  "author": "crx,dxj",
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",

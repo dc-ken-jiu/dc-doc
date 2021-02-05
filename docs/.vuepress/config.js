@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/',
+    base: '/dc-doc/',
     title: 'dc-doc',
     description: '前端开发体系',
     head: [
@@ -24,5 +24,8 @@ module.exports = {
             { text: '前端规范', link: '/standard' },
             { text: 'Changelog', link: '/logs' }
         ],
+        sidebar: {
+            "/cli/": [""],
+        }
     }
 }
