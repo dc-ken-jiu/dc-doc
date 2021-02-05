@@ -18,11 +18,18 @@ module.exports = {
             { text: '主页', link: '/' },
             { text: '脚手架', link: '/cli/' },
             { text: '方法库', link: '/util/' },
-            { text: '网路库', link: '/http/' },
+            { text: '网络库', link: '/http/' },
             { text: '组件库', link: '/component/' },
             { text: '技术文档', link: '/tecdoc/' },
             { text: '前端规范', link: '/standard' },
-            { text: 'Changelog', link: '/logs' }
+            {
+                text: '其他',
+                ariaLabel: 'Language Menu',
+                items: [
+                    { text: '搭建私有npm库', link:'/tools/docker_verdaccio' }
+                ]
+            },
+            { text: 'Changelog', link: '/logs' },
         ],
         sidebar: {
             "/cli/": [""],
